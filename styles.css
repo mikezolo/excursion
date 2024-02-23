@@ -1,0 +1,114 @@
+body {
+    box-sizing: border-box;
+    min-width: 800px;
+    max-width: 1920px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    object-position: center;
+}
+
+h3 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 75px;
+    color: white;
+    text-align: center;
+    margin-top: 15px;
+    padding-top: 10px;
+    margin-bottom: 30px;
+}
+
+h4 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 63px;
+    color: white;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+p {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 40px;
+    color: gray;
+    text-align: center;
+}
+
+.links {
+    font-family: Verdana;
+    color: aquamarine;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.copyright {
+    font-family: Verdana;
+    font-weight: lighter;
+    font-size: 20px;
+    color: gray;
+    text-align: center;
+    padding: 0;
+    margin-top: 50px;
+    margin-bottom: 0;
+    
+}
+
+img {
+    max-width: 65%;
+    object-position: center;
+}
+
+.window {
+    position: relative;
+    max-width: 100%;
+    min-height: 100px;
+    min-width: 300px;
+    padding-bottom: 0;
+    margin: 0 auto;
+    display: block;
+}
+
+.window video {
+    height: 69%;
+    top: 18%;
+    left: 40%;
+    position: absolute
+}
+
+.window img {
+    z-index: 1;
+    position: relative;
+    height: auto;
+    width: 28%;
+    min-width: 200px;
+}
+
+
+.icons {
+    padding: 15px 10px;
+    max-width: 6%;
+}
+
+
+.site-copyright {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 24px;
+    color: gray;
+    text-align: center;
+}
+
+.footer-text {
+    display: inline-block;
+    width: 480px;
+    height: 350px;
+  }
+  
+  footer {
+    padding: 50px 0;
+  }
