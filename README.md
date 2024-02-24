@@ -17,6 +17,7 @@ Excursion is a simple web project aimed at practicing basic Git skills while sho
 - Challenges encountered: Optimizing design alignment, integrating external media
    
 ![](/resources/compare.png)
+
 *My version vs the mock*
 
 ### Installation and Usage
