@@ -2,6 +2,7 @@
 ## A portfolio project
 
  - The `excursion` project is a part of the @![Codecademy's](https://github.com/Codecademy) ![course](https://www.codecademy.com/enrolled/courses/learn-git) on Git.
+
 The initial objective of the project was to produce a working copy of a web application based solely on a screenshot and a redline mock:
 
 ![](/resources/excursion-mock-small.png) ![](/resources/excursion_redline-small.png)
