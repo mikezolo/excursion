@@ -27,4 +27,4 @@ To explore the project locally:
 For questions or feedback, feel free to contact me here on GitHub or via [LinkedIn](https://www.linkedin.com/in/mikezolo/).
 
 ### License
-This project is licensed under the [MIT License](LICENSE). 
+This project is licensed under the [MIT License](LICENSE).
