@@ -1,20 +1,26 @@
-# excursion
-## A portfolio project
+# Excursion
+## A Portfolio Project
 
- - The `excursion` project is a part of the @![Codecademy's](https://github.com/Codecademy) ![course](https://www.codecademy.com/enrolled/courses/learn-git) on Git.
+The `excursion` project is a part of the [Codecademy](https://github.com/Codecademy) course on [Git](https://www.codecademy.com/enrolled/courses/learn-git).
 
-The initial objective of the project was to produce a working copy of a web application based solely on a screenshot and a redline mock:
+### Description
+Excursion is a simple web project aimed at practicing basic Git skills while showcasing proficiency in HTML and CSS. The objective of the project was to produce a working copy of a web application based solely on a screenshot and a redline mock provided by Codecademy.
 
-![](/resources/excursion-mock-small.png) ![](/resources/excursion_redline-small.png)
+### Features
+- Replication of the original design with optimization for alignment and readability.
+- Utilization of additional media to challenge skills in handling raw external objects.
 
+### Technical Details
+- Technologies used: HTML, CSS
+- Challenges encountered: Optimizing design alignment, integrating external media
 
-- While the purpose of the project was to practice basic Git skills, I've found it useful to demonstrate my #HTML and #CSS skills too.
-My version of the web app looks a bit different than the screenshot provided by Codeacademy.
-1. After replicating the original design, I decided to optimize its alignment and readability.
-2. In the project, I use other media than those provided in the task. The purpose was to challenge myself by dealing with raw external objects instead of using pre-tailored media objects at hand.
+### Installation and Usage
+To explore the project locally:
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in a web browser.
 
-![](/resources/compare.png)
-*My version vs the mock*
+### Contact
+For questions or feedback, feel free to contact me here on GitHub or via [LinkedIn](https://www.linkedin.com/in/mikezolo/).
 
-For questions, don't hesitate to contact me here on GitHub or via ![LinkedIn](https://www.linkedin.com/in/mikezolo/).
-
+### License
+This project is licensed under the [MIT License](LICENSE).
