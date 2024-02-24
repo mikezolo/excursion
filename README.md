@@ -5,6 +5,7 @@ The `excursion` project is a part of the [Codecademy](https://github.com/Codecad
 
 ### Description
 Excursion is a simple web project aimed at practicing basic Git skills while showcasing proficiency in HTML and CSS. The objective of the project was to produce a working copy of a web application based solely on a screenshot and a redline mock provided by Codecademy.
+
 ![](/resources/excursion-mock-small.png) ![](/resources/excursion_redline-small.png)
 
 ### Features
