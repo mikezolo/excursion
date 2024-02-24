@@ -12,5 +12,5 @@ My version of the web app looks a bit different than the screenshot provided by 
 1. After replicating the original design, I decided to optimize its alignment and readability.
 2. In the project, I use other media than those provided in the task. The purpose was to challenge myself by dealing with raw external objects instead of using pre-tailored media objects at hand.
 
-For questions, don't hesitate to contact me here on GitHub or via ![]LinkedIn(https://www.linkedin.com/in/mikezolo/).
+For questions, don't hesitate to contact me here on GitHub or via ![LinkedIn](https://www.linkedin.com/in/mikezolo/).
 
